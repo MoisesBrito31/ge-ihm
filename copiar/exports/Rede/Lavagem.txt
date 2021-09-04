@@ -1,0 +1,4 @@
+Wireless.400098:BITS=0
+PainelLavagem._1
+Wireless.400099:BITS=0
+PainelLavagem._2
