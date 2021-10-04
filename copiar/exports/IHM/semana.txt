@@ -1,0 +1,14 @@
+IHM.400100:BITS=0
+planejamento.semana.semana_1
+IHM.400101:BITS=0
+planejamento.semana.semana_2
+IHM.400102:BITS=0
+planejamento.semana.semana_3
+IHM.400103:BITS=0
+planejamento.semana.semana_4
+IHM.400104:BITS=0
+planejamento.semana.semana_5
+IHM.400105:BITS=0
+planejamento.semana.semanaMes
+IHM.400106:BITS=0
+planejamento.semana.diaSemana

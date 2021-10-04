@@ -1,0 +1,17 @@
+IHM.400107:BITS=16
+write.set_bomba[0]
+write.set_bomba[1]
+write.set_bomba[2]
+write.set_bomba[3]
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+write.set_bomba[15]
